@@ -9,8 +9,8 @@ Messenger (arm64-v8a): 422.0.0.18.107
 Spotify-Lite: 1.9.0.43809  
 Spotify: 8.8.62.491  
 IconPackStudio: 2.1 build 028  
-TickTick (arm64-v8a): 6.6.8.1  
-TickTick (arm-v7a): 6.6.8.1  
+TickTick (arm64-v8a): 6.6.9.1  
+TickTick (arm-v7a): 6.6.9.1  
 Tasker: 6.2.12-rc  
 Instagram (arm64-v8a): 275.0.0.27.98  
 Instagram (arm-v7a): 275.0.0.27.98  
